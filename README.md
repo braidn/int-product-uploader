@@ -1,5 +1,3 @@
-# nfinite platform test
-
 ## Development / Installation
 
 ### Setup dependencies
